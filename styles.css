@@ -129,6 +129,12 @@ body {
     }
 }
 
+@media screen and (max-width: 497px) {
+    .img {
+        height: 300px;
+    }
+}
+
 /* Animations */
 
 @keyframes bg {
