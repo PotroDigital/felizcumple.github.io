@@ -129,8 +129,17 @@ body {
     }
 }
 
-@media screen and (max-width: 497px) {
+@media screen and (max-width: 500px) {
+    .texts h1 {
+        font-size: 4.5rem;
+    }
+
+    .texts p {
+        font-size: 1rem;
+    }
+    
     .img {
+        width: 200px;
         height: 300px;
     }
 }
