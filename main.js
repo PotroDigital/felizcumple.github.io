@@ -1,3 +1,3 @@
 const audio = document.getElementById('myAudio');
 
-audio.volume = 0.5;
+audio.volume = 0.7;
